@@ -1,6 +1,14 @@
 ## OUZHU
-#### is a good boy
-**_i like  ~~haowen~~ ouzhu_**  
+#### ouzhu
+ OUZHU
+
+2
+
+#### ouzhu
+
+3
+
+**_LeBron James  ~~**_LeBron James **_ ~~  Soldier~~ KING_**  
 ~~like this~~  
 >欧珠真好
 >欧珠是个大好人
@@ -9,3 +17,4 @@ ___
 [跳转网址](https://mooc1-2.chaoxing.com/mycourse/studentstudy?chapterId=401832918&courseId=216558499&clazzid=36796414&enc=6778a97f39e25ddfa4897499f4e7d4f6)  
 __  
 ```printf("ouzhuzhenhao");```
+![A.md](https://github.com/OD12138/OD/blob/main/A.md)
